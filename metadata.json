@@ -1,0 +1,6 @@
+{
+  "name": "MUNA — My Growth Journey",
+  "description": "Personal student and life management operating system for Muna Mohamed, balancing Somali Wealth Academy studies, digital marketing, faith, family, and financial growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
